@@ -89,7 +89,7 @@ private struct QRPanel: View {
                 .fixedSize(horizontal: false, vertical: true)
         }
         .padding(36)
-        .background(.ultraThinMaterial.opacity(0.72))
+        .background(.ultraThinMaterial)
         .clipShape(RoundedRectangle(cornerRadius: 42, style: .continuous))
     }
 }
