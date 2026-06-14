@@ -1,0 +1,9 @@
+{
+  "name": "kpn-itv-apple-tv",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Native tvOS companion app for watching KPN TV on Apple TV via tv.kpn.com and AirPlay.",
+  "scripts": {
+    "test": "node scripts/validate.js"
+  }
+}
